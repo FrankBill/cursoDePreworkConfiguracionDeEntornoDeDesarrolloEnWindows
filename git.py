@@ -20,4 +20,5 @@
 # Correr estos dos comandos antes de usar git
 # git config --global user.name "TuNombreDeUsuarioDeGitHub"
 # git config --global user.email "TuCorreoDeGitHub"
+
 # git config --edit --global => Para verificar. 
