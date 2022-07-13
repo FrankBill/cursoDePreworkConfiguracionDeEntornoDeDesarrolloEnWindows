@@ -11,7 +11,6 @@
 
 # Además, la mayoría de los navegadores también admiten los complementos externos necesarios para mostrar contenidos activos como videos, audio, archivos PDF y juegos dentro de la página.
 
-
 # Versiones de Google Chrome
 # 1. Canary
 # 2. Dev
@@ -20,7 +19,6 @@
 # Firefox Dev
 
 # Edge y sus DevTools
-
 
 # Para entrar al inspector de elementos en Chrome se puede usar:
 # Fn + F12

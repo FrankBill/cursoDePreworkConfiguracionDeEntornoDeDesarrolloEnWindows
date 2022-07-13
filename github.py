@@ -1,11 +1,11 @@
 # Vincular GitHub con terminal de Ubuntu.
 
-# 1. SSH-keygen -t rsa -b 4096 -C "email de GitHub" => Ingresar en la terminal (en el home).
+# 1. ssh-keygen -t rsa -b 4096 -C "email de GitHub" => Ingresar en la terminal (en el home).
 # 2. Ingresar contraseña (sugerencia: la misma contraseña de Ubuntu).
-# 3. eval "$(SSH-agent -s)" => Nos ayuda a gestionar nuestras claves. Se evalúa que haya un agente corriendo y que todo esté en orden. -- Agent pid 2074
+# 3. eval "$(ssh-agent -s)" => Nos ayuda a gestionar nuestras claves. Se evalúa que haya un agente corriendo y que todo esté en orden. -- Agent pid 2074
 
 # Para obtener nuestra llave SSH:
-# 4. cd ~/.SSH
+# 4. cd ~/.ssh
 # 5. cat id_rsa.pub
 # 6. Copiar la llave SSH obtenida en la terminal de Ubuntu.
 

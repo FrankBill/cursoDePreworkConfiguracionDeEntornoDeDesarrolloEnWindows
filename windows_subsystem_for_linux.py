@@ -8,7 +8,7 @@
 # Fedora
 # Arch Linux
 # Ubuntu
-# El pingüino Tux es la mascota oficial de Lunix, Linus Torvalds, el creador de Linux, fue mordido por un pingüino, por eso es que la mascota oficial de Linux es un pingüino.
+# El pingüino Tux es la mascota oficial de Linux, Linus Torvalds, el creador de Linux, fue mordido por un pingüino, por eso es que la mascota oficial de Linux es un pingüino.
 
 # Configuración de Ubuntu en WSL
 # 1. Seguir los pasos del manual de instalación de WSL.
